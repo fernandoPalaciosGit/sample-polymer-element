@@ -3,7 +3,7 @@ module.exports = function (grunt) {
 	var gruntConfig = {
 			shell: {
 				runProject: {
-					command: 'polyserver -o',
+					command: 'polyserve -o tests/index.html',
 					options: {
 						async: false,
 					}
