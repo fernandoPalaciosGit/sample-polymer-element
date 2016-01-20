@@ -1,0 +1,22 @@
+{
+  "name": "sample-polymer-element",
+  "version": "0.0.0",
+  "description": "Sample custom element with polymer",
+  "main": "tests/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandoPalaciosGit/sample-polymer-element.git"
+  },
+  "keywords": [
+    "custom elements"
+  ],
+  "author": "Fernando Palacios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandoPalaciosGit/sample-polymer-element/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-shell-spawn": "~0.3.10"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "sample-polymer-element",
+  "version": "0.0.0",
+  "description": "Sample custom element with polymer",
+  "main": "tests/index.html",
+  "keywords": [
+    "web components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendors",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "webcomponentsjs": "~0.7.20"
+  }
+}
